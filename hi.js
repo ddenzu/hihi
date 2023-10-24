@@ -4,3 +4,6 @@ function 으향([b,c]){
 }
 으향(a)
 console.log(a)
+a.forEach(function(i){
+    console.log(i)
+})
