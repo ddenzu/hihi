@@ -7,3 +7,5 @@ console.log(a)
 a.forEach(function(i){
     console.log(i)
 })
+
+console.log('끆끅')
